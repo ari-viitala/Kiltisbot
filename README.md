@@ -1,4 +1,7 @@
 # FK Kiltisbot
+
+The bot can be found [here](https://t.me/FK_kiltisbot)
+
 This is an utility Telegram bot for Aalto University's Guild of Physics. The bot has following features
 - Direct Telegram messagin to guild's guildroom commiteee for questions, feedback and suggestions
 - Telegram UI for shopping at guildroom's sweet cabinet using a tab system
